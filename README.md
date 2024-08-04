@@ -1,3 +1,4 @@
 # currency-converter
 
-## github
+## First project by Kumail Khan
+
